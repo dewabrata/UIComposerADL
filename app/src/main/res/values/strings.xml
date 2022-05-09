@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">UIComposerADL</string>
     <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_list_view">ListView</string>
 </resources>

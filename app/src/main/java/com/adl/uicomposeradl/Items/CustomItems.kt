@@ -46,5 +46,5 @@ fun CustomItem(model: ModelData){
 @Composable
 @Preview
 fun preview(){
-    CustomItem(model = ModelData(1,"Dewa","Brata",12))
+    CustomItem(model = ModelData("","Dewa","12"))
 }

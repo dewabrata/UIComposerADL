@@ -1,3 +1,3 @@
 package com.adl.uicomposeradl.model
 
-data class ModelData(val id:Int, val firstName:String, val lastName:String, val age:Int)
+data class ModelData( val firstName:String, val lastName:String, val age:String)
